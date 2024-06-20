@@ -1,0 +1,1 @@
+Exercises from Pythonic Patterns course on [arjancodes.com](https://arjancodes.com/)
